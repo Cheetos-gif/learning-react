@@ -4,7 +4,7 @@ export default function DrugsCatalogue() {
       <ul>
         <li className="text-3xl text-center">Drugs Catalogue</li>
         <li className="text-center mt-4">
-          This page contains a list of drugs available in the catalogue.
+          This page contains a list of drugs available in the catalogue
         </li>
       </ul>
     </nav>
